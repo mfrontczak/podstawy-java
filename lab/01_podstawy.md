@@ -1,4 +1,7 @@
-# Podstawowe elementy języka Java
+# Podstawy
+
+## Teoria 📝
+Rozdział 3 - Podstawowe elementy języka Java
 
 ## Zadania ✏️
 1. Napisz program, który przyjmuje od użytkownika długość dwóch boków prostokąta, a następnie obliczy pole powierzchni i obwód prostokąta. Należy przyjąć, że zmienne są typu rzeczywistego _double_
