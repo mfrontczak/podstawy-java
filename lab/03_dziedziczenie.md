@@ -21,7 +21,7 @@ a następnie w zależności od możliwości struktury
 * zawierający pole typu wyliczeniowego enum określającego trudność prowadzenia **EASY, MEDIUM, HARD**
 * zawierającą metodę  **getPrice()** zwracającą cenę na podstawie wzoru ilość kół * 1000  
 
-a następnie utwórz trzy klasy dziedziczące po niej dziedziczące **Car**, **Motorcycle** oraz **Tricycle**, które:  
+a następnie utwórz trzy klasy po niej dziedziczące **Car**, **Motorcycle** oraz **Tricycle**, które:  
 * będą miały konstruktory pozwalające na inicjalizację wszystkich pól z nadklasy  
 * przesłonią metodę **toString()** wypisując unikalny string opisujący dany pojazd
 * będą przysłaniać metodę **equals()** w taki sposób, że porównywane będzie tylko pole **brand**
