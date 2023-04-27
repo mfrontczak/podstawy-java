@@ -8,8 +8,8 @@ Rozdział 8 - Programowanie generyczne
 Utwórz konstruktor, gettery oraz settery, a następnie stwórz dwie różne instancje.
 
 2. Utwórz klasę *ImTab*, przyjmującą jeden parametr typu *T*, a następnie:  
-a. Potraktuj typ *T* jak tablicę, utwórz konstruktor  
-b. Utwórz metodę zwracającą element na konkretnej pozycji oraz rozmiar całej tablicy  
+a. Potraktuj typ *T* jako typ listy, utwórz konstruktor w oparciu o varargs
+b. Utwórz metodę zwracającą element na konkretnej pozycji oraz cały rozmiar  
 c. Stwórz instancję klasy podając w parametrze cztery zmienne typu *String*  
 d. Wypisz w pętli zawartość klasy używając przygotowanej wcześniej metody  
 e. Powtórz kroki C - D dla typu *Integer*
